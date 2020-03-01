@@ -3,7 +3,7 @@
     <name>Invisible Power Lines</name>
     <author>OdysseyScorpio</author>
     <packageId>OdysseyScorpio.InvisiblePowerLines.202003</packageId>
-    <url></url>
+    <url>https://github.com/OdysseyScorpio/Invisible-Power-Lines</url>
     <modDependencies>
         <li>
             <packageId>brrainz.harmony</packageId>
